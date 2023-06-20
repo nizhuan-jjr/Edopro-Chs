@@ -7,7 +7,7 @@ Place **Chs** into **config\languages**
 ## Association/关联性说明
 cards.cdb = cards.cdb
 
-anime.cdb = cards-unofficial.cdb
+cards-unofficial.cdb = cards-unofficial.cdb
 
 cards-skills.cdb = cards-skills.cdb+cards-skills-unofficial.cdb
 
@@ -19,7 +19,7 @@ prerelease.cdb = some prerelease cdbs under **repositories\delta-puppet**
 
 cards.cdb对应cards.cdb
 
-anime.cdb对应cards-unofficial.cdb
+cards-unofficial.cdb对应cards-unofficial.cdb
 
 cards-skills.cdb对应cards-skills.cdb+cards-skills-unofficial.cdb
 
