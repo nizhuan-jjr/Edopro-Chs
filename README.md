@@ -31,3 +31,4 @@ rush.cdb对应cards-rush.cdb
 prerelease.cdb对应**repositories\delta-puppet**里某些prerelease的cdb
 ## 汉化思路
 对比ygopro的cards.cdb和edopro的cards.cdb，通过DB Browser for SQLite这样的SQLite数据库工具，用edopro的setcode、脚本提示文字这样的和脚本代码结构差异有关的内容修改掉ygopro的cards.cdb的对应栏目即可。
+strings.conf的话就需要用edopro的原生strings.conf结合ygopro的strings.conf内的叫法来一行行翻译了。
