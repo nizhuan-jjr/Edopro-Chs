@@ -1,5 +1,5 @@
 # Edopro-Chs
-Chinese simplified localization pack for Edopro（Edopro汉化包）
+Chinese simplified localization pack for Edopro（Edopro简中汉化包）
 ## How to use/使用说明
 Place **Chs** into **config\languages**
 
