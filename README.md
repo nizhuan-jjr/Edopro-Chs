@@ -4,6 +4,18 @@ Chinese simplified localization pack for Edopro（Edopro简中汉化包）
 Place **Chs** into **config\languages**
 
 把 **Chs** 放入 **config\languages**目录下即可
+
+If the font looks weird, place **ygo.ttf** into **fonts**, then edit **config\system.conf** and change the textfont and numfont line like this:
+
+**textfont = fonts/ygo.ttf 12**
+
+**numfont = fonts/ygo.ttf**
+
+如果字体有问题，就把ygo.ttf放到**fonts**目录下，编辑**config\system.conf**里的textfont和numfont行成如下：
+
+**textfont = fonts/ygo.ttf 12**
+
+**numfont = fonts/ygo.ttf**
 ## Association/关联性说明
 strings.conf --> strings.conf
 
